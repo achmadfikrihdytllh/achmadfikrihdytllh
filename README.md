@@ -57,20 +57,20 @@ Yo, gue **Achmad Fikri Hidayatullah** — orang-orang manggil gue sebagai **Wild
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=achmadfikrihidayatllh&show_icons=true&count_private=true&theme=midnight-purple&title_color=D4AF37&icon_color=8CA6D6&text_color=C9D6EA&bg_color=0A0E27&border_color=2D4373&hide_border=false" />
-<img height="165" src="https://streak-stats.demolab.com/?user=achmadfikrihidayatllh&theme=midnight-purple&hide_border=false&border=2D4373&background=0A0E27&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=achmadfikrihidytllh&show_icons=true&count_private=true&theme=midnight-purple&title_color=D4AF37&icon_color=8CA6D6&text_color=C9D6EA&bg_color=0A0E27&border_color=2D4373&hide_border=false" />
+<img height="165" src="https://streak-stats.demolab.com/?user=achmadfikrihidytllh&theme=midnight-purple&hide_border=false&border=2D4373&background=0A0E27&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
 
 </div>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadfikrihidayatllh&layout=compact&theme=midnight-purple&title_color=D4AF37&text_color=C9D6EA&bg_color=0A0E27&border_color=2D4373&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadfikrihidytllh&layout=compact&theme=midnight-purple&title_color=D4AF37&text_color=C9D6EA&bg_color=0A0E27&border_color=2D4373&hide_border=false)
 
 </div>
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=achmadfikrihidayatllh&theme=dracula&no-frame=true&margin-w=8&row=1&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=achmadfikrihidytllh&theme=dracula&no-frame=true&margin-w=8&row=1&column=6)
 
 </div>
 
