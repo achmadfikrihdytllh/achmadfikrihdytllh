@@ -39,7 +39,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 <br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadfikrihidytllh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00f0ff" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadfikrihdytllh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00f0ff" alt="Top Languages" width="45%" />
 </p>
 
 </div>
