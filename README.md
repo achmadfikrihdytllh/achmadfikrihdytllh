@@ -1,105 +1,125 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2A4A,100:2D4373&height=220&section=header&text=Achmad%20Fikri%20Hidayatullah&fontSize=38&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Persona-user%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&descColor=8CA6D6)
+# 🎭 Achmad Fikri Hidayatullah
+### 🗡️ Specialized Backend Developer | Navigating the Digital Tartarus
+
+---
+
+<!-- Animated Persona 3 Summoning GIF Header -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00eGg5Z3N5ZndwZ3Z3Z3Nnd3p4Zm95M3B0ZnR5N3pka3R5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7mS8vnoELeYpJDgXG/giphy.gif" width="60%" alt="Makoto Yuki Persona Summon" />
+
+> *"Time never waits. It delivers all equally to the same end."* — **Memento Mori.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=120&section=header&text=The%20Dark%20Hour%20Approaches&fontSize=35&animation=fadeIn&fontColor=00f0ff" width="100%" />
 
 </div>
 
+## 🌌 About Me
+
+I am a Fresh Graduate in **Information Technology** from **Universitas Brawijaya** (Class of 2022). As a dedicated Backend Developer, I specialize in building scalable architecture, engineering robust RESTful APIs, and managing secure data streams hidden away behind the user interface. 
+
+Like navigating the floors of Tartarus, I look at complex monolithic or microservice environments as puzzles that demand analytical precision, structured optimization, and deep tactical debugging.
+
+*   🔮 **Current Focus:** Crafting high-performance server-side systems & API orchestration.
+*   ⚔️ **Specialization:** Backend Engineering (Node.js/Go/PHP), Database Normalization, & Structural Code Optimization.
+*   🧠 **Expertise:** Designing secure data flows, handling complex relational schemas, and refactoring performance bottlenecks.
+*   🌐 **Interests:** High-performance frameworks, microservices architecture, system security, and automation tools.
+*   🎧 **Philosophy:** Code is like a Persona; it requires discipline, training, and the right awakening to unleash its true potential.
+
+---
+
+## ⚡ Velvet Room Analytics: Profile Statistics
+
 <div align="center">
 
-```
-"The journey is not for the sake of arriving. It's the journey that matters."
-— Message from Igor, Velvet Room
-```
+### 📊 Detailed GitHub Analytics
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=achmadfikrihdytllh&show_icons=true&theme=tokyonight&color_title=00f0ff&icon_color=00f0ff&hide_border=true&title_color=00f0ff&bg_color=0a192f" alt="Fikri's GitHub Stats" width="80%" />
 
-<br>
+<br/><br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=550&lines=Wild+Card+%7C+Backend+Developer;Persona-user+of+Code+%26+Logic;%22You'll+never+see+it+coming.%22;Currently+ranking+up+Social+Links...)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadfikrihidytllh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00f0ff" alt="Top Languages" width="45%" />
+</p>
 
 </div>
 
 ---
 
-## 🌙 Velvet Room Profile
+## 🧠 Advanced Backend & Architecture Expertise
 
-> *"Welcome to the Velvet Room. This place exists between dream and reality, mind and matter..."*
+### 🛡️ RESTful API Engineering
+*   **Architectural Precision:** Designing highly scalable endpoints following strict enterprise standards and REST conventions.
+*   **Payload Security:** Implementing robust validation layers, rate-limiting, and state-of-the-art token authorization (JWT).
+*   **Error Prevention:** Structuring global exception handlers and deterministic logging layers to identify system faults instantly.
 
-Yo, gue **Achmad Fikri Hidayatullah** — orang-orang manggil gue sebagai **Wild Card di dunia Backend Development**. Kalau Makoto punya Evoker buat manggil Persona, gue punya keyboard buat manggil API 🗝️
-
-- 🃏 **Arcana:** The Magician *(building things from nothing)*
-- 🏫 **Dorm:** Backend Development, tinggal di server room, bukan Iwatodai Dorm
-- ⚔️ **Weapon of Choice:** Go, Laravel, AdonisJS, dan secangkir kopi jam 3 pagi (Dark Hour)
-- 🎯 **Current Quest:** Terus rank-up Social Link sama teknologi baru
-
----
-
-## ⚔️ Persona Arsenal (Tech Stack)
-
-<div align="center">
-
-![Golang](https://img.shields.io/badge/Go-0A0E27?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Laravel](https://img.shields.io/badge/Laravel-0A0E27?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-0A0E27?style=for-the-badge&logo=adonisjs&logoColor=5A45FF)
-![NextJS](https://img.shields.io/badge/Next.js-0A0E27?style=for-the-badge&logo=next.js&logoColor=D4AF37)
-![NodeJS](https://img.shields.io/badge/Node.js-0A0E27?style=for-the-badge&logo=node.js&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E27?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0E27?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Git](https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
+### 🗄️ Database Management & Optimization
+*   **Data Modeling:** Proficient in designing strict, highly normalized database schemas using PostgreSQL and MySQL systems.
+*   **Performance Tuning:** Optimizing relational query execution plans, indexing strategies, and handling relational table constraints cleanly.
+*   **State Integrity:** Managing transaction cycles and database migrations systematically to safeguard production data.
 
 ---
 
-## 📊 SEES Status Report
+## 🛠️ Technology Stack (The Arsenal)
 
-<div align="center">
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=achmadfikrihidytllh&show_icons=true&count_private=true&theme=midnight-purple&title_color=D4AF37&icon_color=8CA6D6&text_color=C9D6EA&bg_color=0A0E27&border_color=2D4373&hide_border=false" />
-<img height="165" src="https://streak-stats.demolab.com/?user=achmadfikrihidytllh&theme=midnight-purple&hide_border=false&border=2D4373&background=0A0E27&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
+### ⚙️ Backend Development
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white)
 
-</div>
+### 🗄️ Database & Cloud Platform
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f0ff.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadfikrihidytllh&layout=compact&theme=midnight-purple&title_color=D4AF37&text_color=C9D6EA&bg_color=0A0E27&border_color=2D4373&hide_border=false)
-
-</div>
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=achmadfikrihidytllh&theme=dracula&no-frame=true&margin-w=8&row=1&column=6)
-
-</div>
+### 🧰 Tools & Version Control
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🎴 Social Links
+## 📁 Tartarus Exploration Logs: Featured Projects
+
+### 🌐 01. Profile+ (HRIS Attendance System Backend)
+*   **Role & Core Stack:** Lead Backend Engineer | AdonisJS, PostgreSQL
+*   **System Overview:** Engineered a highly secure and automated HRIS attendance ecosystem designed to process corporate workforce logs cleanly.
+*   **Technical Implementations:** Designed strict relational entity schemas, built low-latency RESTful API layers, handled session/token tokens via secure layers, and deployed system bug fixes to optimize continuous live tracking.
+
+### 🌳 02. The Treehouse Project
+*   **Role & Core Stack:** Full-Stack Developer | Node.js, Content Management Systems
+*   **System Overview:** Structured a modular corporate platform featuring robust administrative controls and landing optimization.
+*   **Technical Implementations:** Programmed comprehensive dashboard API endpoints for advanced CMS integration, performed clean UI component slicing, and stabilized server-side response handling for structural performance.
+
+### 📐 03. Ruang Kreasi
+*   **Role & Core Stack:** Database Architect & Core Backend | TypeScript, PostgreSQL
+*   **System Overview:** Developed a dedicated portfolio network architecture allowing architects and technical mandors to exhibit complex layout designs.
+*   **Technical Implementations:** Spearheaded the relational entity blueprints, optimized query data lookups, and built secure model routers to handle rich media rendering pipelines natively.
+
+### 🧪 04. RSSA Project
+*   **Role & Core Stack:** System Research Developer | Golang Architecture
+*   **System Overview:** Deep-dive implementation modeling built on high-throughput server architecture paradigms.
+*   **Technical Implementations:** Analyzed asynchronous system flow routines, tracing channel-based communication data models, and refactoring performance handling within a strict Golang framework.
+
+---
+
+## 📈 Activity Metrics & Contribution Tracker
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/achmad-fikri-hidayatullah-380197250/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://www.instagram.com/fikuri.olnyv/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0A0E27?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
-<a href="https://portfolio-p3r-fikuri.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=D4AF37" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=achmadfikrihdytllh&theme=tokyonight&fire=00f0ff&ring=0f4c81&hide_border=true&background=0a192f&sideLabels=00f0ff" alt="GitHub Streak Tracker" width="80%" />
 
 </div>
 
 ---
 
+## 🤝 Let's Connect & Collaborate
+
 <div align="center">
 
-```
-"Memento Mori... but also, remember to commit your code."
-```
+<!-- Aigis Pixel Art GIF Footer -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcTRuNWpsNXMzNDM0eWRzMGpxMHJtd2kzdHlyM2d5ODcyNGtxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Xg01A848lE45C1uO01/giphy.gif" width="120px" alt="Aigis SEES" />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2D4373,50:1B2A4A,100:0A0E27&height=120&section=footer)
+<br/><br/>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-fikri-hidayatullah-380197250/) [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fikuri.olnyv/) [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00f0ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-p3r-fikuri.vercel.app/)
+
+```text
+Made with discipline, strict backend logic, and deep passion for scalable system engineering.
