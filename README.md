@@ -80,7 +80,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Development
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white).
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white)
 
 ### 🗄️ Database & Cloud Platform
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f0ff.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -90,6 +90,30 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=40&section=header" width="100%" />
 
+## 🏆 Featured Projects & Achievements
+
+<div align="center">
+
+<!-- Centered Persona 3 Custom Icon GIF requested by user -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V2dTBuY3ljaTNybGk4Y2Mxcmg4ZHNjanNkaGtzaXRpZTNqbGI5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jShXX4P8sQIn7fF3UO/giphy.gif" width="45%" alt="Persona 3 Custom Icon" />
+
+</div>
+
+### 🛡️ Enterprise Backend Architecture
+*   🚀 **Profile+ (HRIS Architecture)** - Engineered a secure corporate RESTful API layer with token validation mechanisms using AdonisJS and PostgreSQL.
+*   🌸 **JapanCareer (Job Matching System)** - Developed a large-scale backend ecosystem designed to systematically manage and match candidate profiles with occupational vacancies in Japan.
+
+### 🌐 Full-Stack & Integration Ecosystems
+*   🌳 **The Treehouse Platform** - Built modular dashboard API connectors for CMS panels and stabilized frontend rendering components.
+*   🏘️ **Admin RT System** - Modeled a neighborhood management environment mapping demographic data structures cleanly via PHP and MySQL.
+*   🌙 **Portfolio-Persona** - Designed and modeled a highly interactive personal portfolio website inspired by customized Persona 3 Reload aesthetics.
+
+### 🏅 Experience & Professional Milestones
+*   🎓 **Universitas Brawijaya Alumnus** - Completed studies in Information Technology with strong competencies in structural backend design.
+*   💼 **MSIB Backend Developer Intern Batch 7** - Managed secure endpoint lifecycle operations, logical debugging, and schema setups.
+*   🚀 **MagangHub Backend Developer Intern Batch 1** - Orchestrated application flow logic, database integrations, and code deployment protocols.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=40&section=header" width="100%" />
 ## 📁 Tartarus Exploration Logs: Featured Projects
 
 ### 🌐 01. Profile+ (HRIS Attendance System Backend)
