@@ -147,7 +147,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=achmadfikrihdytllh&theme=tokyonight&fire=00f0ff&ring=0f4c81&hide_border=true&background=0a192f&sideLabels=00f0ff&v=1" alt="GitHub Streak Tracker" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=achmadfikrihdytllh&theme=tokyonight&fire=00f0ff&ring=0f4c81&hide_border=true&background=0a192f&sideLabels=00f0ff&v=2" alt="GitHub Streak Tracker" width="80%" />
 
 </div>
 
