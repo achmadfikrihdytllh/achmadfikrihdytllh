@@ -56,7 +56,7 @@ Like navigating the floors of Tartarus, I look at complex monolithic or microser
 <div align="center">
 
 <!-- Added Persona 3 Battle Cut-in GIF -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00eGg5Z3N5ZndwZ3Z3Z3Nnd3p4Zm95M3B0ZnR5N3pka3R5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KaqFd7Nag5FYSS1nKK/giphy.gif](https://giphy.com/gifs/xbox-persona-p3-3-reloaded-9I1sWW7IyBWnt7gJOM" width="55%" alt="Persona 3 Attack Animation" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW00eGg5Z3N5ZndwZ3Z3Z3Nnd3p4Zm95M3B0ZnR5N3pka3R5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KaqFd7Nag5FYSS1nKK/giphy.gif" width="55%" alt="Persona 3 Attack Animation" />
 
 </div>
 
